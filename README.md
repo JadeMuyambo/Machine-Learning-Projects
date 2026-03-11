@@ -2,6 +2,18 @@
 This repository contains projects from **CSC646: Machine Learning** course from Fall 2025 demonstrating practical skills in data cleaning, feature engineering, model tuning, and performance analysis.
 The projects demonstrate an understanding in the application of machine learning algorithms including K-means, PCA, KNN, Logistic Regression, Decision Tree, SVM/SVR, Neural Network and Backpropagation by using Python packages to develop these applications
 
+## 🎯 Objective
+
+## 🛠️ Tools & Packages
+
+## 📁 Files
+- **What’s included:**
+- **Files:**
+
+> Course context:
+
+## 🧪 Skills Demonstrated
+
 ## 📄 License
 - This project is licensed under the MIT lisence. See license file for details.
 
