@@ -18,6 +18,6 @@ The projects demonstrate an understanding in the application of machine learning
 - This project is licensed under the MIT lisence. See license file for details.
 
 ## 📄 Author
-Jade Muyambo
+**Jade Muyambo**
 Graduate Student - Data Science
 University of Miami
